@@ -224,7 +224,7 @@ const Home = () => {
             <i className="fa-solid fa-pause" style={{ fontSize: "20px" }}></i>
           )}
         </p>
-        <p className="music-content">Music </p>
+        <p className="music-content">Alarm </p>
       </div>
     </div>
   );
