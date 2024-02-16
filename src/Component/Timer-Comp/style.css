@@ -1,0 +1,9 @@
+.current-status{
+     font-size: 30px;
+     font-weight: bolder;
+     text-transform: capitalize;
+     margin: 10px 0px;
+}
+.timer-component{
+     text-align: center;
+}
