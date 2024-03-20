@@ -143,7 +143,7 @@ const Home = () => {
     <div className="home-container">
       <div className="header">
         <h1>Pomodoro Timer</h1>
-        <p>Made with React and {"\u2764"} by Suriyaprakash</p>
+        <p>Made with React JS and {"\u2764"} by Suriyaprakash</p>
         <p
           className="restart-button"
           style={{ color: `${colorButton}` }}
